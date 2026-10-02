@@ -1,5 +1,5 @@
 # Danny's Diner SQL Case Study
-
+![Danny's Diner SQL Case Study](dannys-diner-banner.png)(a_wide_cinematic_professional_data_analytics_the.png)
 ## Project Overview
 
 This project analyzes customer purchasing behavior for Danny's Diner using SQL.
